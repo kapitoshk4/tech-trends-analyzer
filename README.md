@@ -1,0 +1,1 @@
+# tech-trends-analyzer
