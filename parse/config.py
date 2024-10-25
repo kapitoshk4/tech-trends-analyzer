@@ -1,0 +1,38 @@
+TECHNOLOGIES = [
+    "Python",
+    "Django",
+    "ORM",
+    "OOP",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Flask",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "AWS",
+    "GCP",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "Linux",
+    "REST",
+    "Redis",
+    "Celery",
+    "FastAPI",
+    "Selenium",
+    "Pytest",
+    "Jenkins",
+    "Machine Learning"
+]
+
+EXPERIENCE_LEVELS = {
+    "0-1": "Junior",
+    "1-3": "Middle",
+    "3-5": "Senior",
+    "5plus": "Senior",
+}
