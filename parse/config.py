@@ -23,5 +23,16 @@ TECHNOLOGIES = [
     "REST",
     "Redis",
     "Celery",
-    "FastAPI"
+    "FastAPI",
+    "Selenium",
+    "Pytest",
+    "Jenkins",
+    "Machine Learning"
 ]
+
+EXPERIENCE_LEVELS = {
+    "0-1": "Junior",
+    "1-3": "Middle",
+    "3-5": "Senior",
+    "5plus": "Senior",
+}
