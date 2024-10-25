@@ -11,6 +11,8 @@ es on the [DOU website](https://jobs.dou.ua/). It collects job listings based on
    ```bash
    git clone https://github.com/yourusername/py-tech-trends-analyzer.git
    cd py-tech-trends-analyzer
+   python3 -m venv venv
+   source venv/scripts/activate
    pip install -r requirements.txt
    ```
 ## Configuration
