@@ -10,7 +10,7 @@ vacancies = pd.read_csv("vacancies.csv")
 
 
 def plot_technology_frequency(df: pd.DataFrame, title: str, filename: str) -> None:
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(16, 8))
     plt.bar(df["Technology"], df["Count"], color="skyblue")
     plt.xticks(rotation=45)
     plt.title(title)
