@@ -1,11 +1,7 @@
 # tech-trends-analyzer
 
-This project is a web scraper and data analyzer for Python job vacanci
-
-
-
-es on the [DOU website](https://jobs.dou.ua/). It collects job listings based on experience levels, extracts relevant data like job title, company, required technologies, and experience level, and then generates visual analyses of technology trends.
-
+This project is a web scraper and data analyzer for Python job vacancies on the [DOU website](https://jobs.dou.ua/). It collects job listings based on experience levels, extracts relevant data like job title, company, required technologies, and experience level, and then generates visual analyses of technology trends.
+`
 
 ## Installation
    ```bash
